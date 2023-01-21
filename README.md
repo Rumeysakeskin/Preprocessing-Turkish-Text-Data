@@ -6,7 +6,7 @@ This guide will apply the following methods:
 - Lowercasing the text
 - Removing puncuatations, special and non-Turkish characters
 - Removing unicode characters
-- Removing contractions
+- Removing abbreviations
 - Normalize numbers for Turkish 
 
 
