@@ -1,6 +1,6 @@
 ### Methods for Turkish text cleaning and normalization
 
-Text cleaning and normalization is the process of preparing raw text for NLP, STT, TTS etc. so that machines can understand human language. 
+Text cleaning and normalization is the process of preparing raw text for NLP, STT, TTS applications.
 This guide will apply the following methods: 
 
 - Lowercasing the text
